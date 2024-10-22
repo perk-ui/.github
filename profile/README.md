@@ -1,5 +1,5 @@
 <p align="center">
-  ![Logo](https://github.com/user-attachments/assets/58ed71f1-06f9-4a6c-81a5-c26747846d4d)
+  <image width="280px" height="280px" src="https://github.com/user-attachments/assets/e2aa7fb6-6e16-453e-9ac8-64f79150acc9" />
 </p>
 
 ---
